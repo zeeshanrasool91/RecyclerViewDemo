@@ -35,7 +35,7 @@ public class MainActivity extends Activity implements MyItemClickListener, MyIte
         initData();
     }
 
-    //HI this is just a change for testing
+    //HI this is just a change for testing okay man i need to test
     private void initView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         mRecyclerView_two = (RecyclerView) findViewById(R.id.recyclerView_two);
