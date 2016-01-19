@@ -35,9 +35,7 @@ public class MainActivity extends Activity implements MyItemClickListener, MyIte
         initData();
     }
 
-    /**
-     * ��ʼ��RecylerView
-     */
+    //HI this is just a change for testing
     private void initView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         mRecyclerView_two = (RecyclerView) findViewById(R.id.recyclerView_two);
